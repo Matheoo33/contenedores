@@ -9,7 +9,7 @@
 3. Crear tres filas, laprimera contendra dos columnas, la segunda tres, y la tercera dos.
 
 
-### 1. Cuatro columnas
+### componentes
 
 container: para centrar el contenido.
 
@@ -27,47 +27,5 @@ p-3: padding interno.
 
 
 
-### 2. Dos columnas y dos filas
-
-Dos row → crean dos filas
-
-En cada fila:
-
-Dos col → crean 2 columnas
-
-Colores diferentes en cada columna para distinguirlas.
-
-
-
-row
- 
-  col
-  
-  col
-
-  
-### 3. Tres filas (2, 3 y 2 columnas)
-
-3 row → tres filas
-
-Distribución:
-
-Fila 1 → 2 col
-
-Fila 2 → 3 col
-
-Fila 3 → 2 col
-
-Cada columna con colores distintos.
-
-
-
-container → contenedor principal
-
-row → fila
-
-col → columna (se adapta automáticamente)
-
-bg-* → colores
 
 p-3 → espacio interno
